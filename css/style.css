@@ -1,6 +1,5 @@
 canvas {
-    width: 400px;
-    height: 400px;
-    background-color: #2b2b2b;/* gris oscuro */
-    border: 2px solid #000;
+    max-width: 100%;
+    height: auto;
+    background-color: #a38e8e;/* gris oscuro */;
 }
